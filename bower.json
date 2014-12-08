@@ -1,0 +1,7 @@
+{
+  "name": "ember-states-shim",
+  "version": "0.0.1",
+  "main": [
+    "./ember-states.js"
+  ]
+}
